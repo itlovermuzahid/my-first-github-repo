@@ -1,7 +1,8 @@
 div{
-
+border-radius: 10px;
     background-color: aquamarine;
-    padding: 10px
+    padding-right;: 20px
+    margin-bottom: 10px
+ border: 20px;
 
-    border: 20px;
 }
